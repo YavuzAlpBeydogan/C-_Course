@@ -1,0 +1,14 @@
+/Users/yb/Documents/MySolution/02_Variables/bin/Debug/net9.0/02_Variables
+/Users/yb/Documents/MySolution/02_Variables/bin/Debug/net9.0/02_Variables.deps.json
+/Users/yb/Documents/MySolution/02_Variables/bin/Debug/net9.0/02_Variables.runtimeconfig.json
+/Users/yb/Documents/MySolution/02_Variables/bin/Debug/net9.0/02_Variables.dll
+/Users/yb/Documents/MySolution/02_Variables/bin/Debug/net9.0/02_Variables.pdb
+/Users/yb/Documents/MySolution/02_Variables/obj/Debug/net9.0/02_Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yb/Documents/MySolution/02_Variables/obj/Debug/net9.0/02_Variables.AssemblyInfoInputs.cache
+/Users/yb/Documents/MySolution/02_Variables/obj/Debug/net9.0/02_Variables.AssemblyInfo.cs
+/Users/yb/Documents/MySolution/02_Variables/obj/Debug/net9.0/02_Variables.csproj.CoreCompileInputs.cache
+/Users/yb/Documents/MySolution/02_Variables/obj/Debug/net9.0/02_Variables.dll
+/Users/yb/Documents/MySolution/02_Variables/obj/Debug/net9.0/refint/02_Variables.dll
+/Users/yb/Documents/MySolution/02_Variables/obj/Debug/net9.0/02_Variables.pdb
+/Users/yb/Documents/MySolution/02_Variables/obj/Debug/net9.0/02_Variables.genruntimeconfig.cache
+/Users/yb/Documents/MySolution/02_Variables/obj/Debug/net9.0/ref/02_Variables.dll

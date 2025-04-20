@@ -74,10 +74,10 @@ class Program
         // Console.WriteLine("Sınav Ortalamanız: "+ result);
         #endregion
         #region Dışarıdan Karakter Girişleri
-        char gender;
-        Console.Write("Cinsiyet: ");
-        gender=char.Parse(Console.ReadLine());
-        Console.WriteLine("Seçtiğin Cinsiyet: "+ gender);
+        // char gender;
+        // Console.Write("Cinsiyet: ");
+        // gender=char.Parse(Console.ReadLine());
+        // Console.WriteLine("Seçtiğin Cinsiyet: "+ gender);
         #endregion
     }
 
