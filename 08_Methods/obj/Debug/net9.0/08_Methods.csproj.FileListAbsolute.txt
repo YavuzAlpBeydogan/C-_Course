@@ -12,3 +12,13 @@
 /Users/yb/Documents/MySolution/08_Methods/obj/Debug/net9.0/08_Methods.pdb
 /Users/yb/Documents/MySolution/08_Methods/obj/Debug/net9.0/08_Methods.genruntimeconfig.cache
 /Users/yb/Documents/MySolution/08_Methods/obj/Debug/net9.0/ref/08_Methods.dll
+/Users/yb/Desktop/Yazılım/C# Eğitim/08_Methods/bin/Debug/net9.0/08_Methods
+/Users/yb/Desktop/Yazılım/C# Eğitim/08_Methods/bin/Debug/net9.0/08_Methods.dll
+/Users/yb/Desktop/Yazılım/C# Eğitim/08_Methods/bin/Debug/net9.0/08_Methods.pdb
+/Users/yb/Desktop/Yazılım/C# Eğitim/08_Methods/obj/Debug/net9.0/08_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yb/Desktop/Yazılım/C# Eğitim/08_Methods/obj/Debug/net9.0/08_Methods.AssemblyInfoInputs.cache
+/Users/yb/Desktop/Yazılım/C# Eğitim/08_Methods/obj/Debug/net9.0/08_Methods.AssemblyInfo.cs
+/Users/yb/Desktop/Yazılım/C# Eğitim/08_Methods/obj/Debug/net9.0/08_Methods.csproj.CoreCompileInputs.cache
+/Users/yb/Desktop/Yazılım/C# Eğitim/08_Methods/obj/Debug/net9.0/08_Methods.dll
+/Users/yb/Desktop/Yazılım/C# Eğitim/08_Methods/obj/Debug/net9.0/refint/08_Methods.dll
+/Users/yb/Desktop/Yazılım/C# Eğitim/08_Methods/obj/Debug/net9.0/08_Methods.pdb
