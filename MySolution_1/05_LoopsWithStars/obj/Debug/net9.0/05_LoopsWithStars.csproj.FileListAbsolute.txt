@@ -1,0 +1,14 @@
+/Users/yb/Documents/MySolution/05_LoopsWithStars/bin/Debug/net9.0/05_LoopsWithStars
+/Users/yb/Documents/MySolution/05_LoopsWithStars/bin/Debug/net9.0/05_LoopsWithStars.deps.json
+/Users/yb/Documents/MySolution/05_LoopsWithStars/bin/Debug/net9.0/05_LoopsWithStars.runtimeconfig.json
+/Users/yb/Documents/MySolution/05_LoopsWithStars/bin/Debug/net9.0/05_LoopsWithStars.dll
+/Users/yb/Documents/MySolution/05_LoopsWithStars/bin/Debug/net9.0/05_LoopsWithStars.pdb
+/Users/yb/Documents/MySolution/05_LoopsWithStars/obj/Debug/net9.0/05_LoopsWithStars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yb/Documents/MySolution/05_LoopsWithStars/obj/Debug/net9.0/05_LoopsWithStars.AssemblyInfoInputs.cache
+/Users/yb/Documents/MySolution/05_LoopsWithStars/obj/Debug/net9.0/05_LoopsWithStars.AssemblyInfo.cs
+/Users/yb/Documents/MySolution/05_LoopsWithStars/obj/Debug/net9.0/05_LoopsWithStars.csproj.CoreCompileInputs.cache
+/Users/yb/Documents/MySolution/05_LoopsWithStars/obj/Debug/net9.0/05_LoopsWithStars.dll
+/Users/yb/Documents/MySolution/05_LoopsWithStars/obj/Debug/net9.0/refint/05_LoopsWithStars.dll
+/Users/yb/Documents/MySolution/05_LoopsWithStars/obj/Debug/net9.0/05_LoopsWithStars.pdb
+/Users/yb/Documents/MySolution/05_LoopsWithStars/obj/Debug/net9.0/05_LoopsWithStars.genruntimeconfig.cache
+/Users/yb/Documents/MySolution/05_LoopsWithStars/obj/Debug/net9.0/ref/05_LoopsWithStars.dll

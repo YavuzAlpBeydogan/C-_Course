@@ -1,0 +1,11 @@
+/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/obj/Debug/net9.0/10_DatabaseCrud.csproj.AssemblyReference.cache
+/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/obj/Debug/net9.0/10_DatabaseCrud.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/obj/Debug/net9.0/10_DatabaseCrud.AssemblyInfoInputs.cache
+/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/obj/Debug/net9.0/10_DatabaseCrud.AssemblyInfo.cs
+/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/obj/Debug/net9.0/10_DatabaseCrud.csproj.CoreCompileInputs.cache
+/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/bin/Debug/net9.0/10_DatabaseCrud
+/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/bin/Debug/net9.0/10_DatabaseCrud.dll
+/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/bin/Debug/net9.0/10_DatabaseCrud.pdb
+/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/obj/Debug/net9.0/10_DatabaseCrud.dll
+/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/obj/Debug/net9.0/refint/10_DatabaseCrud.dll
+/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/obj/Debug/net9.0/10_DatabaseCrud.pdb

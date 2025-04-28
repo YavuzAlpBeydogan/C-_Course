@@ -1,0 +1,14 @@
+/Users/yb/Documents/MySolution/03_MakingDecision/bin/Debug/net9.0/03_MakingDecision
+/Users/yb/Documents/MySolution/03_MakingDecision/bin/Debug/net9.0/03_MakingDecision.deps.json
+/Users/yb/Documents/MySolution/03_MakingDecision/bin/Debug/net9.0/03_MakingDecision.runtimeconfig.json
+/Users/yb/Documents/MySolution/03_MakingDecision/bin/Debug/net9.0/03_MakingDecision.dll
+/Users/yb/Documents/MySolution/03_MakingDecision/bin/Debug/net9.0/03_MakingDecision.pdb
+/Users/yb/Documents/MySolution/03_MakingDecision/obj/Debug/net9.0/03_MakingDecision.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yb/Documents/MySolution/03_MakingDecision/obj/Debug/net9.0/03_MakingDecision.AssemblyInfoInputs.cache
+/Users/yb/Documents/MySolution/03_MakingDecision/obj/Debug/net9.0/03_MakingDecision.AssemblyInfo.cs
+/Users/yb/Documents/MySolution/03_MakingDecision/obj/Debug/net9.0/03_MakingDecision.csproj.CoreCompileInputs.cache
+/Users/yb/Documents/MySolution/03_MakingDecision/obj/Debug/net9.0/03_MakingDecision.dll
+/Users/yb/Documents/MySolution/03_MakingDecision/obj/Debug/net9.0/refint/03_MakingDecision.dll
+/Users/yb/Documents/MySolution/03_MakingDecision/obj/Debug/net9.0/03_MakingDecision.pdb
+/Users/yb/Documents/MySolution/03_MakingDecision/obj/Debug/net9.0/03_MakingDecision.genruntimeconfig.cache
+/Users/yb/Documents/MySolution/03_MakingDecision/obj/Debug/net9.0/ref/03_MakingDecision.dll
