@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yb/Documents/MySolution/04_Loops/04_Loops.csproj": {}
+    "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/04_Loops/04_Loops.csproj": {}
   },
   "projects": {
-    "/Users/yb/Documents/MySolution/04_Loops/04_Loops.csproj": {
+    "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/04_Loops/04_Loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yb/Documents/MySolution/04_Loops/04_Loops.csproj",
+        "projectUniqueName": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/04_Loops/04_Loops.csproj",
         "projectName": "04_Loops",
-        "projectPath": "/Users/yb/Documents/MySolution/04_Loops/04_Loops.csproj",
+        "projectPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/04_Loops/04_Loops.csproj",
         "packagesPath": "/Users/yb/.nuget/packages/",
-        "outputPath": "/Users/yb/Documents/MySolution/04_Loops/obj/",
+        "outputPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/04_Loops/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yb/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yb/Documents/MySolution/05_LoopsWithStars/05_LoopsWithStars.csproj": {}
+    "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/05_LoopsWithStars/05_LoopsWithStars.csproj": {}
   },
   "projects": {
-    "/Users/yb/Documents/MySolution/05_LoopsWithStars/05_LoopsWithStars.csproj": {
+    "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/05_LoopsWithStars/05_LoopsWithStars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yb/Documents/MySolution/05_LoopsWithStars/05_LoopsWithStars.csproj",
+        "projectUniqueName": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/05_LoopsWithStars/05_LoopsWithStars.csproj",
         "projectName": "05_LoopsWithStars",
-        "projectPath": "/Users/yb/Documents/MySolution/05_LoopsWithStars/05_LoopsWithStars.csproj",
+        "projectPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/05_LoopsWithStars/05_LoopsWithStars.csproj",
         "packagesPath": "/Users/yb/.nuget/packages/",
-        "outputPath": "/Users/yb/Documents/MySolution/05_LoopsWithStars/obj/",
+        "outputPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/05_LoopsWithStars/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yb/.nuget/NuGet/NuGet.Config"

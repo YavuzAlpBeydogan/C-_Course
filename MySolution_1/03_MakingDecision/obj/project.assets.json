@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yb/Documents/MySolution/03_MakingDecision/03_MakingDecision.csproj",
+      "projectUniqueName": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/03_MakingDecision/03_MakingDecision.csproj",
       "projectName": "03_MakingDecision",
-      "projectPath": "/Users/yb/Documents/MySolution/03_MakingDecision/03_MakingDecision.csproj",
+      "projectPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/03_MakingDecision/03_MakingDecision.csproj",
       "packagesPath": "/Users/yb/.nuget/packages/",
-      "outputPath": "/Users/yb/Documents/MySolution/03_MakingDecision/obj/",
+      "outputPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/03_MakingDecision/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yb/.nuget/NuGet/NuGet.Config"

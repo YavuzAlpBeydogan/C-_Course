@@ -1648,11 +1648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yb/Desktop/Yazılım/C# Eğitim/09_DatabaseProject/09_DatabaseProject.csproj",
+      "projectUniqueName": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/09_DatabaseProject/09_DatabaseProject.csproj",
       "projectName": "09_DatabaseProject",
-      "projectPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/09_DatabaseProject/09_DatabaseProject.csproj",
+      "projectPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/09_DatabaseProject/09_DatabaseProject.csproj",
       "packagesPath": "/Users/yb/.nuget/packages/",
-      "outputPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/09_DatabaseProject/obj/",
+      "outputPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/09_DatabaseProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yb/.nuget/NuGet/NuGet.Config"

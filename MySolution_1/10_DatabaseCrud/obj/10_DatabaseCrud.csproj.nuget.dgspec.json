@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/10_DatabaseCrud.csproj": {}
+    "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/10_DatabaseCrud/10_DatabaseCrud.csproj": {}
   },
   "projects": {
-    "/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/10_DatabaseCrud.csproj": {
+    "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/10_DatabaseCrud/10_DatabaseCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/10_DatabaseCrud.csproj",
+        "projectUniqueName": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/10_DatabaseCrud/10_DatabaseCrud.csproj",
         "projectName": "10_DatabaseCrud",
-        "projectPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/10_DatabaseCrud.csproj",
+        "projectPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/10_DatabaseCrud/10_DatabaseCrud.csproj",
         "packagesPath": "/Users/yb/.nuget/packages/",
-        "outputPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/10_DatabaseCrud/obj/",
+        "outputPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/10_DatabaseCrud/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yb/.nuget/NuGet/NuGet.Config"

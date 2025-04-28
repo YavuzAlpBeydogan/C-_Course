@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yb/Documents/MySolution/01_MainSubjects/01_MainSubjects.csproj": {}
+    "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/01_MainSubjects/01_MainSubjects.csproj": {}
   },
   "projects": {
-    "/Users/yb/Documents/MySolution/01_MainSubjects/01_MainSubjects.csproj": {
+    "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/01_MainSubjects/01_MainSubjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yb/Documents/MySolution/01_MainSubjects/01_MainSubjects.csproj",
+        "projectUniqueName": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/01_MainSubjects/01_MainSubjects.csproj",
         "projectName": "01_MainSubjects",
-        "projectPath": "/Users/yb/Documents/MySolution/01_MainSubjects/01_MainSubjects.csproj",
+        "projectPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/01_MainSubjects/01_MainSubjects.csproj",
         "packagesPath": "/Users/yb/.nuget/packages/",
-        "outputPath": "/Users/yb/Documents/MySolution/01_MainSubjects/obj/",
+        "outputPath": "/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/01_MainSubjects/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yb/.nuget/NuGet/NuGet.Config"

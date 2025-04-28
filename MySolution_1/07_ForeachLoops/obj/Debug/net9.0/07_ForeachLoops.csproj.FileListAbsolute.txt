@@ -12,3 +12,13 @@
 /Users/yb/Documents/MySolution/07_ForeachLoops/obj/Debug/net9.0/07_ForeachLoops.pdb
 /Users/yb/Documents/MySolution/07_ForeachLoops/obj/Debug/net9.0/07_ForeachLoops.genruntimeconfig.cache
 /Users/yb/Documents/MySolution/07_ForeachLoops/obj/Debug/net9.0/ref/07_ForeachLoops.dll
+/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/07_ForeachLoops/bin/Debug/net9.0/07_ForeachLoops
+/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/07_ForeachLoops/bin/Debug/net9.0/07_ForeachLoops.dll
+/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/07_ForeachLoops/bin/Debug/net9.0/07_ForeachLoops.pdb
+/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/07_ForeachLoops/obj/Debug/net9.0/07_ForeachLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/07_ForeachLoops/obj/Debug/net9.0/07_ForeachLoops.AssemblyInfoInputs.cache
+/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/07_ForeachLoops/obj/Debug/net9.0/07_ForeachLoops.AssemblyInfo.cs
+/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/07_ForeachLoops/obj/Debug/net9.0/07_ForeachLoops.csproj.CoreCompileInputs.cache
+/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/07_ForeachLoops/obj/Debug/net9.0/07_ForeachLoops.dll
+/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/07_ForeachLoops/obj/Debug/net9.0/refint/07_ForeachLoops.dll
+/Users/yb/Desktop/Yazılım/C# Eğitim/MySolution_1/07_ForeachLoops/obj/Debug/net9.0/07_ForeachLoops.pdb
