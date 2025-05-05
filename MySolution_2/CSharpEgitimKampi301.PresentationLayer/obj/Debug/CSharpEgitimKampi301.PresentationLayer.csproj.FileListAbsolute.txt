@@ -7,3 +7,19 @@ C:\Users\yb\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationL
 C:\Users\yb\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.CoreCompileInputs.cache
 C:\Users\yb\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.exe
 C:\Users\yb\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.pdb
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.exe.config
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.exe
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.pdb
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.dll
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.dll
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.pdb
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.xml
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.AssemblyReference.cache
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.Properties.Resources.resources
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.GenerateResource.cache
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.CoreCompileInputs.cache
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEg.3E4FD578.Up2Date
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.exe
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.pdb

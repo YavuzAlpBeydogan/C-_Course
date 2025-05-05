@@ -1,0 +1,17 @@
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll.config
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.dll
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.xml
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.AssemblyReference.cache
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.CoreCompileInputs.cache
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEg.01C77B6F.Up2Date
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.Migrations.mig1.resources
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.GenerateResource.cache

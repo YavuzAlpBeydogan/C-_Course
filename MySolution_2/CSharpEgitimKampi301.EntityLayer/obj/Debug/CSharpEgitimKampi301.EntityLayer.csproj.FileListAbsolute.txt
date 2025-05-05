@@ -1,0 +1,12 @@
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.EntityLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.EntityLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.EntityLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.dll
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.xml
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.csproj.AssemblyReference.cache
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.csproj.CoreCompileInputs.cache
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEg.8B90B715.Up2Date
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.dll
+Z:\Desktop\Yazılım\C# Eğitim\MySolution_2\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.pdb
